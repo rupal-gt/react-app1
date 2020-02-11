@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello World  I am Rupal Kataria.
-          hey
+        
           We are here to make changes
         </p>
         <a
